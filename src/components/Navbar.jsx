@@ -4,7 +4,7 @@ const Navbar = () => {
   return (
     <nav className="container relative py-3">
       <div className="flex items-center justify-between">
-        <a href="./index.html">
+        <a href="/">
           <img src={Logo} alt="logo" />
         </a>
         <div className="flex-1 max-w-xs search-field group">
